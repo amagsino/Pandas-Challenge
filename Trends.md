@@ -1,0 +1,6 @@
+# Heroes of Pymoli
+-----
+## Trends Based on Data
+1. The majority of players are male, at 84.03%. Females players make up 14.06%. The remaining minority are non-binary or non-disclosed at 1.91%. Of those players, the age demographics shows that majority of players are in the age range of 20-24 years olds, at about 44.79%.
+2. In addition to being the most popular age range of players, 20-24 year olds as a whole spend the most money on Heroes of Pymoli, spending $1,114.06 as listed in the Total Purchase Value and an average purchase of $4.32 per person. However, the demographic group that has the highest Average Purchase Total is the 35-39 year olds with an average purchase of $4.76 per person. Their Total Purchase Value is $147.67.
+3. The Total Purchase Count is 780, but the total player count is 576, which means that there is about 204 repeat purchases from at least one same player for Heroes of Pymoli. For these purchases, the most profitable item, Nirvana is not the most popular item tying for second with Fiery Glass Crusader and Extraction, Quickblade Of Trembling Hands at 9 Purchase Counts. The most popular item is Oathbreaker, Last Hope of the Breaking Storm at 12 Purchase Counts and a Total Purchase Value of $50.76
